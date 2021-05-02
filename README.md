@@ -1,16 +1,17 @@
 # oxhelp
-Helpline directory of Oxygen Suppliers (Build with MERN)
+Helpline directory of Oxygen Suppliers in INDIA (Build with MERN)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://oxhelp.herokuapp.com/)
 
 ### Objective
-Just a little help to helpless covid patients by providing them a single platform to search for oxygen suppliers.
+Just a little help 🆘 to helpless covid patients by providing them a single platform to search for oxygen suppliers.
 
 #### Type of Users
 1. Patients
 2. Suppliers
 
-## Ui-flow
+## Ui-flow (Mobile View) 📲
+
 
 ##### Home
 ![Home page](https://github.com/Easyvipin/oxhelp/blob/cdedbb65f37362ad1bd00980c69783781939f3e6/home.png) 
