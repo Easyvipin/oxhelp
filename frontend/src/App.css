@@ -1,0 +1,31 @@
+body {
+  box-sizing: border-box;
+  background-image: url("./Images/wave.png");
+  background-size: contain;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  min-height: 100vh;
+}
+.App {
+  min-height: 90vh;
+  position: relative;
+}
+
+footer {
+  position: absolute;
+  background: rgb(27, 27, 27);
+  padding: 0.8rem 1rem;
+  color: #fff;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+}
+.loader {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
