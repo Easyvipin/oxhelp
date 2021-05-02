@@ -1,6 +1,8 @@
 # oxhelp
 Helpline directory of Oxygen Suppliers (Build with MERN)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://oxhelp.herokuapp.com/)
+
 ### Objective
 Just a little help to helpless covid patients by providing them a single platform to search for oxygen suppliers.
 
@@ -27,3 +29,6 @@ Just a little help to helpless covid patients by providing them a single platfor
 
 ![search](https://github.com/Easyvipin/oxhelp/blob/cdedbb65f37362ad1bd00980c69783781939f3e6/form.png)
 
+#### Future Objectives
+- [ ] VERIFICATION AND REPORT (This feature will only be added if the usage of the app scales up.)
+  
