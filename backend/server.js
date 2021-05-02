@@ -24,6 +24,6 @@ if (process.env.NODE_ENV === "production") {
 
 connectDb();
 
-app.listen(process.env.SERVER_PORT || 5000, function (err) {
+app.listen(process.env.PORT || 5000, function (err) {
   console.log(`Server Started...`);
 });
